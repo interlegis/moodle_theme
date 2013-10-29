@@ -1,0 +1,91 @@
+style/core.css:    background: #fff;
+style/core.css:border-right: 2px #b8b8b8 solid; }
+style/core.css:color: #a4a19c;
+style/core.css:color: #6AA575; }
+style/core.css:color: #114a81; }
+style/core.css:color: #f19e1c; }
+style/core.css:color: #555160; }
+style/core.css:    background: none repeat scroll 0 0 #FFFFFF;
+style/core.css:    background: none repeat scroll 0 0 #4C71A1 !important;
+style/core.css:    color: #FFFFFF !important;
+style/core.css:    background-color: #4C71A1 !important;
+style/core.css:    color: #69804e;
+style/core.css:    color: #41512f;
+style/core.css:    border-color: #e5e5e5;
+style/core.css:    border: 1px solid #e5e5e5;
+style/core.css:    background: #f3f8ed;
+style/core.css:    border-color: #e5e5e5;
+style/core.css:    color: #b3c79d;
+style/core.css:    color: #fff;
+style/core.css:    color: #333;
+style/core.css:    color: #999;
+style/core.css:    background: #69804e;
+style/core.css:    color: #fff;
+style/core.css:    background: #f3f8ed;
+style/core.css:    border-color: #69804e;
+style/core.css:    border-color: #f3f8ed;
+style/core.css:    background: #fff;
+style/core.css:    border: 1px solid #e5e5e5;
+style/core.css:    background: #fff;
+style/core.css:    background: #d6eebd;
+style/core.css:    border: 1px solid #a0c278;
+style/core.css:    border-color: #a0c278;
+style/core.css:    background: #f3f8ed;
+style/core.css:    border-bottom: 1px solid #e5e5e5;
+style/core.css:    border-bottom: 1px solid #eee;
+style/core.css:    border-bottom: 1px solid #eee;
+style/core.css:    border: 1px solid #e5e5e5;
+style/core.css:    color: #777;
+style/core.css:    color: #fff;
+style/core.css:    border: 1px solid #dadfd5;
+style/core.css:    background: #f3f8ed;
+style/core.css:    color: #fff;
+style/core.css:    border-color: #e5e5e5;
+style/core.css:    background: #f3f8ed;
+style/core.css:    border-color: #dadfd5;
+style/core.css:    color: #3b4c25;
+style/core.css:    background: #fff;
+style/core.css:    border-color: #5b7439;
+style/core.css:    background: #fff;
+style/core.css:    border-color: #84a754;
+style/core.css:    background: #fff;
+style/core.css:    border-top: 1px solid #5b7439;
+style/core.css:    background: #fff;
+style/core.css:    color: #888;
+style/core.css:    background: #f3f8ed;
+style/core.css:    border: 1px solid #d0d3ca;
+style/core.css:    border-color: #e5e5e5;
+style/core.css:.pagelayout-embedded #content {
+style/core.css:    background: #d6eebd;
+style/core.css:    border: 1px solid #a0c278;
+style/core.css:    background: #c9dfb2;
+style/core.css:    color: #555;
+style/core.css:    color: #566b3f;
+style/core.css:    border: 1px solid #a0c278;
+style/core.css:    background: #fcffd8;
+style/core.css:    background: #f3f8ed;
+style/core.css:    color: #888;
+style/core.css:    background: #fcffd8;
+style/core.css:    border-color: #eee;
+style/core.css:    background: #f3f8ed;
+style/core.css:    color: #777;
+style/core.css:    border: 1px solid #e5e5e5;
+style/core.css:    background-color: #fcffd8;
+style/core.css:    border-color: #e5e5e5;
+style/core.css:    border-top: 1px solid #69804e;
+style/core.css:    background: #f3f8ed;
+style/core.css:    border-bottom: 1px solid #e5e5e5;
+style/core.css:    border-bottom: 1px solid #e5e5e5;
+style/core.css:    border-left: 1px solid #eee;
+style/core.css:    border-color: #d0d3ca;
+style/core.css:    border-color: #3b4c25;
+style/core.css:    background: #69804e;
+style/core.css:    color: #fff;
+style/core.css:    border-color: #d0d3ca;
+style/core.css:    background: #f3f8ed;
+style/core.css:    background: #4e6632;
+style/core.css:    color: #fff;
+style/core.css:    color: #b3c79d;
+style/core.css:    color: #fff;
+style/core.css:    background-color: #F3F8ED; /* adds light green background */
+style/core.css:    border: 2px solid #3B4C25; /* adds 2px dark green border */
